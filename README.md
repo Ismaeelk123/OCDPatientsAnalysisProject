@@ -1,4 +1,4 @@
-# OCD Patients Project
+# OCD Patient Analysis Project
 
 Welcome to my first data analysis project! This repository combines SQL and Power BI to explore and analyse a dataset of OCD (Obsessive-Compulsive Disorder) patients. This project marks the beginning of my self-teaching journey in data analytics.
 
