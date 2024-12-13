@@ -10,7 +10,7 @@ SQL: Querying and transforming data.
 
 Power BI: Visualising insights from the data.
 
-The dataset contains anonymised information on OCD patients, focusing on aspects such as demographics, symptoms, and treatment progress.
+The dataset contains anonymised information on OCD patients, focusing on aspects such as demographics.
 
 Tools Used
 
